@@ -1,0 +1,1 @@
+# ghl-to-weaviate-middleware
